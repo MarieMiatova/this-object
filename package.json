@@ -1,0 +1,14 @@
+{
+  "name": "this-object",
+  "version": "1.0.0",
+  "description": "Создайте репозиторий который содержит объект calculator (калькулятор) с тремя методами:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
